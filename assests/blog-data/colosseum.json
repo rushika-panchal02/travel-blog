@@ -1,7 +1,7 @@
 {
   "title": "The Colosseum – Rome, Italy",
   "date": "November 10, 2025",
-  "headerImage": "../../assests/images/colosseum1.jpg",
+  "headerImage": "assests/images/colosseum1.jpg",
   "sections": [
     {
       "heading": "Secrets of the Colosseum",
@@ -32,5 +32,5 @@
       ]
     }
   ],
-  "backLink": "../../index.html"
+  "backLink": "index.html"
 }

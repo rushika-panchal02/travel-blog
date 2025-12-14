@@ -1,7 +1,7 @@
 {
   "title": "Poso Lake – Indonesia",
   "date": "November 20, 2025",
-  "headerImage": "../../assests/images/poso lake.jpg",
+  "headerImage": "assests/images/poso lake.jpg",
   "sections": [
     {
       "heading": "Discovering Poso Lake",
@@ -32,5 +32,5 @@
       ]
     }
   ],
-  "backLink": "../../index.html"
+  "backLink": "index.html"
 }

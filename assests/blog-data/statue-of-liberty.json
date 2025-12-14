@@ -1,7 +1,7 @@
 {
   "title": "Statue of Liberty – New York, USA",
   "date": "November 22, 2025",
-  "headerImage": "../../assests/images/Statue-of-Liberty.webp",
+  "headerImage": "assests/images/Statue-of-Liberty.webp",
   "sections": [
     {
       "heading": "The Symbol of Freedom",
@@ -32,5 +32,5 @@
       ]
     }
   ],
-  "backLink": "../../index.html"
+  "backLink": "index.html"
 }
