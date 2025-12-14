@@ -1,0 +1,15 @@
+{
+  "destination": "Australia",
+  "images": [
+    { "name": "Sydney Opera House", "src": "assests/images/des-au1.jpg" },
+    { "name": "Great Barrier Reef", "src": "assests/images/des-au2.webp" },
+    { "name": "Uluru (Ayers Rock)", "src": "assests/images/des-au3.webp" },
+    { "name": "Blue Mountains", "src": "assests/images/des-au4.jpg" },
+    { "name": "Bondi Beach", "src": "assests/images/des-au5.jpg" },
+    { "name": "Kakadu National Park", "src": "assests/images/des-au6.jpg" },
+    { "name": "Gold Coast", "src": "assests/images/des-au7.jpg" },
+    { "name": "Fraser Island", "src": "assests/images/des-au8.webp" },
+    { "name": "Whitsunday Islands", "src": "assests/images/des-au9.jpeg" },
+    { "name": "Melbourne City", "src": "assests/images/des-au10.jpg" }
+  ]
+}

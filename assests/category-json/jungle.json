@@ -1,0 +1,15 @@
+{
+  "category": "Jungle",
+  "images": [
+    { "src": "assests/images/cat-jun1.jpg", "name": "Daintree Rainforest" },
+    { "src": "assests/images/cat-jun2.avif", "name": "Borneo Lowland rainforest" },
+    { "src": "assests/images/cat-jun3.jpg", "name": "Monteverde Reserve" },
+     { "src": "assests/images/cat-jun4.webp", "name": "Sinharaja Forest" },
+      { "src": "assests/images/cat-jun5.jpg", "name": "Amazon Rainforest" },
+       { "src": "assests/images/cat-jun6.webp", "name": "Harapan Rainforest" },
+        { "src": "assests/images/cat-jun7.jpg", "name": "Alaska's Backcountry Rainforest" },
+         { "src": "assests/images/cat-jun8.avif", "name": "Sapo National Park" },
+         { "src": "assests/images/cat-jun9.jpg", "name": "Ecuador's Cloud Forests" },
+    { "src": "assests/images/cat-jun10.jpg", "name": "Kinabalu National Park" }
+  ]
+}

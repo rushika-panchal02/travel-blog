@@ -1,0 +1,36 @@
+{
+  "title": "Eiffel Tower – Paris, France",
+  "date": "November 12, 2025",
+  "headerImage": "../../assests/images/eiffel tower.jpg",
+  "sections": [
+    {
+      "heading": "The Magic of the Eiffel Tower",
+      "paragraphs": [
+        "The Eiffel Tower is the shining symbol of Paris, attracting millions of visitors every year. From romantic sunsets to glittering night views, it offers an unforgettable experience.",
+        "Whether you're enjoying the tower from below or climbing to the summit, it’s a must-see for every traveler."
+      ]
+    },
+    {
+      "heading": "Best Things to Do",
+      "list": [
+        "Climb to the second floor or summit",
+        "Enjoy a meal at the Eiffel Tower restaurants",
+        "Take photos at Trocadéro Square",
+        "Watch the tower sparkle at night"
+      ]
+    },
+    {
+      "heading": "Travel Tips",
+      "paragraphs": [
+        "Visit early morning or late evening to avoid heavy crowds. Bring a jacket as the summit can get windy."
+      ]
+    },
+    {
+      "heading": "Nearby Attractions",
+      "paragraphs": [
+        "Explore the Seine River, Champ de Mars gardens, and the Musée du Quai Branly nearby."
+      ]
+    }
+  ],
+  "backLink": "../../index.html"
+}

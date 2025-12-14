@@ -1,0 +1,36 @@
+{
+  "title": "Fiordland National Park – New Zealand",
+  "date": "November 15, 2025",
+  "headerImage": "../../assests/images/Fiordland National Park.jpg",
+  "sections": [
+    {
+      "heading": "Why Fiordland Is a Natural Wonder",
+      "paragraphs": [
+        "Fiordland National Park is one of the most breathtaking landscapes on earth. With towering fjords, cascading waterfalls, and lush rainforests, it feels like a world untouched by time.",
+        "It's a paradise for nature lovers, hikers, and wildlife enthusiasts."
+      ]
+    },
+    {
+      "heading": "Top Things to Do",
+      "list": [
+        "Cruise through Milford Sound",
+        "Visit the majestic Doubtful Sound",
+        "Hike the famous Kepler Track",
+        "Explore Glowworm Caves in Te Anau"
+      ]
+    },
+    {
+      "heading": "Travel Tips",
+      "paragraphs": [
+        "The weather can change quickly—carry waterproof clothing. Booking guided tours is recommended for the best experience."
+      ]
+    },
+    {
+      "heading": "Nearby Attractions",
+      "paragraphs": [
+        "Check out Te Anau Lake, Mirror Lakes, and local wildlife sanctuaries around the region."
+      ]
+    }
+  ],
+  "backLink": "../../index.html"
+}

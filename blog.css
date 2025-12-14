@@ -1,0 +1,118 @@
+/* BLOG POST PAGE */
+.blog-post {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 2rem;
+  font-family: "Ubuntu", sans-serif;
+  color: #162b30;
+  line-height: 1.7;
+  background-color: #f9f9f9;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+}
+
+.blog-header h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 0.3rem;
+}
+
+.blog-date {
+  font-size: 0.9rem;
+  color: #777;
+  margin-bottom: 1rem;
+}
+
+.blog-img {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-bottom: 2rem;
+}
+
+.blog-content h2 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+
+.blog-content h3 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.7rem;
+}
+
+.blog-content p {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+.blog-content ul {
+  list-style-type: disc;
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.blog-content li {
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+/* BACK BUTTON */
+.back-btn {
+  display: inline-block;
+  margin-top: 2rem;
+ padding: 0.8rem 1.5rem; /* vertical and horizontal padding */
+  font-size: 1.1rem;
+  background-color: #1d4043;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: background-color 0.3s, transform 0.2s;
+  font-size: 1.1rem;
+   min-width: 180px;        /* ensures button is wide enough */
+  text-align: center;
+}
+
+.back-btn:hover {
+  background-color: #113034;
+  transform: translateY(-2px);
+}
+
+
+/* blog.css or style.css */
+.navbar {
+  background-color: rgba(22, 43, 48, 0.85) !important;
+  position: relative;
+  z-index: 10;
+}
+
+
+/* RESPONSIVE */
+@media screen and (max-width: 768px) {
+  .blog-post {
+    padding: 1rem;
+  }
+
+  .blog-header h1 {
+    font-size: 2rem;
+  }
+
+  .blog-content h2 {
+    font-size: 1.5rem;
+  }
+
+  .blog-content h3 {
+    font-size: 1.2rem;
+  }
+
+  .back-btn {
+    min-width: 150px;
+    font-size: 1rem;
+    padding: 0.7rem 1.2rem;
+  }
+}

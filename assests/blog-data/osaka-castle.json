@@ -1,0 +1,36 @@
+{
+  "title": "Osaka Castle – Japan",
+  "date": "November 18, 2025",
+  "headerImage": "../../assests/images/osaka castle.jpg",
+  "sections": [
+    {
+      "heading": "History of Osaka Castle",
+      "paragraphs": [
+        "Osaka Castle is one of Japan’s most iconic historical landmarks. Built in the 16th century by samurai leader Toyotomi Hideyoshi, the castle played a major role in unifying Japan.",
+        "Today it stands tall surrounded by serene gardens and cherry blossom trees."
+      ]
+    },
+    {
+      "heading": "Things to Do",
+      "list": [
+        "Climb to the top floor for city views",
+        "Visit the historical museum inside",
+        "Walk around Nishinomaru Garden",
+        "Enjoy cherry blossoms in spring"
+      ]
+    },
+    {
+      "heading": "Travel Tips",
+      "paragraphs": [
+        "Spring and autumn are the best seasons to visit. Weekdays are less crowded than weekends."
+      ]
+    },
+    {
+      "heading": "Nearby Attractions",
+      "paragraphs": [
+        "Explore Osaka Museum of History, Dotonbori Street, and Shitennoji Temple."
+      ]
+    }
+  ],
+  "backLink": "../../index.html"
+}

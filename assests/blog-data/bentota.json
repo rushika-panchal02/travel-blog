@@ -1,0 +1,36 @@
+{
+  "title": "Bentota, Sri Lanka",
+  "date": "November 28, 2025",
+  "headerImage": "../../assests/images/bentota.jpg",
+  "sections": [
+    {
+      "heading": "How to Visit Bentota Beach on a Budget",
+      "paragraphs": [
+        "Experience the golden sands and sparkling waters of Bentota, Sri Lanka. Relax under swaying palms, try thrilling water sports, and enjoy a peaceful tropical escape. Perfect for a budget-friendly beach getaway.",
+        "Bentota is one of Sri Lanka's most famous beach destinations. Whether you're looking for adventure, relaxation, or cultural experiences, this charming coastal town has something for everyone."
+      ]
+    },
+    {
+      "heading": "Things to Do in Bentota",
+      "list": [
+        "Relax on Bentota Beach and watch the sunset",
+        "Try water sports like jet skiing, windsurfing, and snorkeling",
+        "Visit the Brief Garden and explore tropical gardens",
+        "Take a river safari on the Bentota River"
+      ]
+    },
+    {
+      "heading": "Travel Tips",
+      "paragraphs": [
+        "The best time to visit Bentota is from December to April, during the dry season. Bring sunscreen, light clothing, swimwear, and local currency. Public transport and tuk-tuks are convenient for short trips, but renting a scooter can give you more freedom to explore."
+      ]
+    },
+    {
+      "heading": "Nearby Attractions",
+      "paragraphs": [
+        "Aside from the beach, don't miss the Kosgoda Turtle Hatchery, the Madu River boat tours, and the historic temples nearby. Each location offers a unique slice of Sri Lankan culture and nature."
+      ]
+    }
+  ],
+  "backLink": "../../index.html"
+}

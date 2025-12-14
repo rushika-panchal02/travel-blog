@@ -1,0 +1,15 @@
+{
+  "destination": "Indonesia",
+  "images": [
+    { "name": "Bali", "src": "assests/images/des-in1.jpg" },
+    { "name": "Borobudur Temple", "src": "assests/images/des-in2.webp" },
+    { "name": "Komodo Island", "src": "assests/images/des-in3.jpg" },
+    { "name": "Raja Ampat", "src": "assests/images/des-in4.jpg" },
+    { "name": "Mount Bromo", "src": "assests/images/des-in5.jpg" },
+    { "name": "Lake Toba", "src": "assests/images/des-in6.jpg" },
+    { "name": "Nusa Penida", "src": "assests/images/des-in7.jpg" },
+    { "name": "Jakarta City", "src": "assests/images/des-in8.jpg" },
+    { "name": "Ubud Rice Terraces", "src": "assests/images/des-in9.webp" },
+    { "name": "Gili Islands", "src": "assests/images/des-in10.jpg" }
+  ]
+}

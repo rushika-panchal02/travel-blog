@@ -1,0 +1,15 @@
+{
+  "destination": "United Kingdom",
+  "images": [
+    { "name": "Big Ben", "src": "assests/images/des-uk1.jpg" },
+    { "name": "Tower Bridge", "src": "assests/images/des-uk2.jpg" },
+    { "name": "Stonehenge", "src": "assests/images/des-uk3.jpg" },
+    { "name": "Edinburgh Castle", "src": "assests/images/des-uk4.avif" },
+    { "name": "Lake District", "src": "assests/images/des-uk5.jpg" },
+    { "name": "Cambridge University", "src": "assests/images/des-uk6.webp" },
+    { "name": "Brighton Beach", "src": "assests/images/des-uk7.jpg" },
+    { "name": "Windsor Castle", "src": "assests/images/des-uk8.jpg" },
+    { "name": "Oxford City", "src": "assests/images/des-uk9.jpg" },
+    { "name": "Scottish Highlands", "src": "assests/images/des-uk10.webp" }
+  ]
+}

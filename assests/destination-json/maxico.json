@@ -1,0 +1,15 @@
+{
+  "destination": "Mexico",
+  "images": [
+    { "name": "Chichen Itza", "src": "assests/images/des-mx1.jpg" },
+    { "name": "Tulum Ruins", "src": "assests/images/des-mx2.jpg" },
+    { "name": "Cancún Beach", "src": "assests/images/des-mx3.avif" },
+    { "name": "Mexico City Zócalo", "src": "assests/images/des-mx4.jpg" },
+    { "name": "Copper Canyon", "src": "assests/images/des-mx5.jpg" },
+    { "name": "Isla Mujeres", "src": "assests/images/des-mx6.jpg" },
+    { "name": "Teotihuacan", "src": "assests/images/des-mx7.jpg" },
+    { "name": "Guadalajara Cathedral", "src": "assests/images/des-mx8.jpg" },
+    { "name": "Sumidero Canyon", "src": "assests/images/des-mx9.jpg" },
+    { "name": "Palenque Ruins", "src": "assests/images/des-mx10.jpg" }
+  ]
+}

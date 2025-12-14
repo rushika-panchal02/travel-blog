@@ -1,0 +1,15 @@
+{
+  "destination": "Japan",
+  "images": [
+    { "name": "Mount Fuji", "src": "assests/images/des-jp1.jpg" },
+    { "name": "Fushimi Inari Shrine", "src": "assests/images/des-jp2.jpg" },
+    { "name": "Tokyo Tower", "src": "assests/images/des-jp3.webp" },
+    { "name": "Arashiyama Bamboo Grove", "src": "assests/images/des-jp4.jpg" },
+    { "name": "Osaka Castle", "src": "assests/images/des-jp5.jpg" },
+    { "name": "Nara Deer Park", "src": "assests/images/des-jp6.webp" },
+    { "name": "Shirakawa-go Village", "src": "assests/images/des-jp7.jpg" },
+    { "name": "Himeji Castle", "src": "assests/images/des-jp8.jpg" },
+    { "name": "Sapporo Snow Festival", "src": "assests/images/des-jp9.jpeg" },
+    { "name": "Hakone Lake", "src": "assests/images/des-jp10.webp" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "category": "Lake",
+  "images": [
+    { "src": "assests/images/cat-lake1.jpg", "name": "Lake Atitlan" },
+    { "src": "assests/images/cat-lake2.jpg", "name": "Lago Torres" },
+    { "src": "assests/images/cat-lake3.jpg", "name": "Laguna Chaxa" },
+     { "src": "assests/images/cat-lake4.jpg", "name": "Argentino Lake" },
+      { "src": "assests/images/cat-lake5.jpg", "name": "Lake Nahuel Huapi" },
+       { "src": "assests/images/cat-lake6.jpg", "name": "Lac des Dix" },
+        { "src": "assests/images/cat-lake7.jpg", "name": "Lago di Braies" },
+         { "src": "assests/images/cat-lake8.jpg", "name": "Lagoas Rasa e Funda" },
+         { "src": "assests/images/cat-lake9.webp", "name": "Gokyo Lakes" },
+    { "src": "assests/images/cat-lake10.jpg", "name": "Lake O’Hara" }
+  ]
+}

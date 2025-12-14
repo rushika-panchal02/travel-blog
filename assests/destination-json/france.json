@@ -1,0 +1,15 @@
+{
+  "destination": "France",
+  "images": [
+    {"name": "Eiffel Tower", "src": "assests/images/eiffel tower.jpg"},
+    {"name": "Louvre Museum", "src": "assests/images/des-fra1.jpg"},
+    {"name": "Notre-Dame Cathedral of Paris", "src": "assests/images/des-fra2.jpg"},
+    {"name": "Arc de Triomphe", "src": "assests/images/des-fra3.jpg"},
+    {"name": "Sainte-Chapelle", "src": "assests/images/des-fra4.jpg"},
+    {"name": "Luxembourg Palace", "src": "assests/images/des-fra5.jpg"},
+    {"name": "Mont Saint-Michel", "src": "assests/images/des-fra6.jpg"},
+    {"name": "LMontmartre", "src": "assests/images/des-fra7.jpg"},
+    {"name": "Disneyland Paris", "src": "assests/images/des-fra8.jpg"},
+    {"name": "Jardin du Luxembourg", "src": "assests/images/des-fra9.jpg"}
+  ]
+}

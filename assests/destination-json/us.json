@@ -1,0 +1,15 @@
+{
+  "destination": "United States",
+  "images": [
+    { "name": "Statue of Liberty", "src": "assests/images/des-us1.jpg" },
+    { "name": "Grand Canyon", "src": "assests/images/des-us2.jpg" },
+    { "name": "Golden Gate Bridge", "src": "assests/images/des-us3.jpg" },
+    { "name": "Yellowstone National Park", "src": "assests/images/des-us4.jpg" },
+    { "name": "Times Square", "src": "assests/images/des-us5.jpg" },
+    { "name": "Yosemite National Park", "src": "assests/images/des-us6.jpg" },
+    { "name": "Las Vegas Strip", "src": "assests/images/des-us7.jpg" },
+    { "name": "Hawaii Beaches", "src": "assests/images/des-us8.jpg" },
+    { "name": "Mount Rushmore", "src": "assests/images/des-us9.jpg" },
+    { "name": "Miami Beach", "src": "assests/images/des-us10.jpg" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "destination": "Egypt",
+  "images": [
+    { "name": "Pyramids of Giza", "src": "assests/images/des-eg1.jpg" },
+    { "name": "The Sphinx", "src": "assests/images/des-eg2.webp" },
+    { "name": "Luxor Temple", "src": "assests/images/des-eg3.jpg" },
+    { "name": "Abu Simbel", "src": "assests/images/des-eg4.jpg" },
+    { "name": "Valley of the Kings", "src": "assests/images/des-eg5.jpg" },
+    { "name": "El Gouna", "src": "assests/images/des-eg6.webp" },
+    { "name": "Nile River", "src": "assests/images/des-eg7.webp" },
+    { "name": "Siwa Oasis", "src": "assests/images/des-eg8.jpg" },
+    { "name": "Mount Sinai", "src": "assests/images/des-eg9.jpg" },
+    { "name": "Red Sea Resorts", "src": "assests/images/des-eg10.webp" }
+  ]
+}

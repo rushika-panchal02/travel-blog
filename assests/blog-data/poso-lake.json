@@ -1,0 +1,36 @@
+{
+  "title": "Poso Lake – Indonesia",
+  "date": "November 20, 2025",
+  "headerImage": "../../assests/images/poso lake.jpg",
+  "sections": [
+    {
+      "heading": "Discovering Poso Lake",
+      "paragraphs": [
+        "Poso Lake is one of Indonesia’s deepest and clearest freshwater lakes. Known for its peaceful surroundings and cultural villages, it offers an authentic natural escape.",
+        "The serene views and untouched landscapes make it a perfect retreat for relaxation."
+      ]
+    },
+    {
+      "heading": "Things to Do",
+      "list": [
+        "Swim in crystal-clear waters",
+        "Visit Bada Valley and its ancient megaliths",
+        "Explore local villages around the lake",
+        "Enjoy sunset views along the lakeside"
+      ]
+    },
+    {
+      "heading": "Travel Tips",
+      "paragraphs": [
+        "The region is quiet and less touristy, so plan your transport in advance. Early mornings are perfect for photography."
+      ]
+    },
+    {
+      "heading": "Nearby Attractions",
+      "paragraphs": [
+        "Check out Saluopa Waterfall and the Lore Lindu National Park nearby."
+      ]
+    }
+  ],
+  "backLink": "../../index.html"
+}

@@ -1,0 +1,15 @@
+{
+  "destination": "Brazil",
+  "images": [
+    {"name": "Christ the Redeemer", "src": "assests/images/des-br1.png"},
+    {"name": "Iguazu Falls", "src": "assests/images/des-br2.jpg"},
+    {"name": "Rio de Janeiro", "src": "assests/images/des-br3.jpg"},
+    {"name": "Parque Nacional dos Lençóis Maranhenses", "src": "assests/images/des-br4.jpg"},
+    {"name": "São Paulo", "src": "assests/images/des-br5.jpg"},
+    {"name": "Copacabana Beach", "src": "assests/images/des-br6.jpg"},
+    {"name": "Paraty", "src": "assests/images/des-br7.jpg"},
+    {"name": "Chapada Diamantina", "src": "assests/images/des-br8.jpg"},
+    {"name": "Parque Nacional da Chapada dos Veadeiros", "src": "assests/images/des-br9.jpg"},
+    {"name": "Florianópolis", "src": "assests/images/des-br10.jpg"}
+  ]
+}

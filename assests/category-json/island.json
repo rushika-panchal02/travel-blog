@@ -1,0 +1,16 @@
+{
+  "category": "Island",
+  "images": [
+    { "src": "assests/images/cat-island1.jpg", "name": "New Guinea" },
+    { "src": "assests/images/cat-island2.jpg", "name": "Sulawesi" },
+    { "src": "assests/images/cat-island3.jpg", "name": "Madura Island" },
+     { "src": "assests/images/cat-island4.jpg", "name": "Flores" },
+      { "src": "assests/images/cat-island5.jpg", "name": "Leyte" },
+       { "src": "assests/images/cat-island6.jpg", "name": "Chiloé Island" },
+        { "src": "assests/images/cat-island7.jpg", "name": "Jeju Island" },
+         { "src": "assests/images/cat-island8.jpg", "name": "Buton Island" },
+         { "src": "assests/images/cat-island9.jpg", "name": "Bangka Island" },
+    { "src": "assests/images/cat-island10.jpg", "name": "Skye" }
+
+  ]
+}

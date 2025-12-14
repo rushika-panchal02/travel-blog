@@ -1,0 +1,37 @@
+{
+  "title": "Taj Mahal – Agra, India",
+  "date": "November 25, 2025",
+  "headerImage": "../../assests/images/taj mahal.jpg",
+  "sections": [
+    {
+      "heading": "The Story Behind the Taj Mahal",
+      "paragraphs": [
+        "The Taj Mahal is India’s most iconic monument, built by Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal.",
+        "Its white marble architecture and symmetrical gardens make it one of the world’s most beautiful structures."
+      ]
+    },
+    {
+      "heading": "Things to Do",
+      "list": [
+        "See the Taj Mahal at sunrise",
+        "Explore the marble craftsmanship up close",
+        "Visit the Mehtab Bagh viewpoint",
+        "Explore Agra Fort nearby"
+      ]
+    },
+    {
+      "heading": "Travel Tips",
+      "paragraphs": [
+        "Avoid Fridays as the Taj Mahal is closed for prayers. Sunrise visits offer cooler weather and fewer tourists."
+      ]
+    },
+    {
+      "heading": "Nearby Attractions",
+      "paragraphs": [
+        "Visit Fatehpur Sikri, Itimad-ud-Daulah, and local marble markets around Agra."
+      ]
+    }
+  ],
+  "backLink": "../../index.html"
+}
+

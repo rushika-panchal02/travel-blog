@@ -1,0 +1,45 @@
+{
+  "category": "Beach",
+  "images": [
+    {
+      "src": "assests/images/cat-beach1.jpg",
+      "name": "Siesta Beach, USA"
+    },
+    {
+      "src": "assests/images/cat-beach2.jpg",
+      "name": "Banana Beach, Thailand"
+    },
+    {
+      "src": "assests/images/cat-beach3.jpg",
+      "name": "Tulum, Maxico"
+    },
+    {
+      "src": "assests/images/cat-beach4.jpg",
+      "name": "Pink Beach, Indonesia"
+    },
+    {
+      "src": "assests/images/cat-beach5.jpg",
+      "name": "Praia da Falésia, Portugal"
+    },
+    {
+      "src": "assests/images/cat-beach6.jpg",
+      "name": "Spiaggia Grande, Italy"
+    },
+    {
+      "src": "assests/images/cat-beach7.jpg",
+      "name": "Honopu Beach, Hawaii"
+    },
+    {
+      "src": "assests/images/cat-beach8.jpg",
+      "name": "Bavaro Beach, Punta Cana, Dominican Republic"
+    },
+    {
+      "src": "assests/images/cat-beach9.jpg",
+      "name": "Ipanema, Rio de Janeiro, Brazil"
+    },
+    {
+      "src": "assests/images/cat-beach10.jpg",
+      "name": "Myrtos Beach, Greece"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "category": "Safari",
+  "images": [
+    { "src": "assests/images/cat-sa1.avif", "name": "Ranthambore National Park" },
+    { "src": "assests/images/cat-sa2.jpg", "name": "Botswana" },
+    { "src": "assests/images/cat-sa3.jpg", "name": "chad wildlife safari" },
+     { "src": "assests/images/cat-sa4.jpg", "name": "Congo" },
+      { "src": "assests/images/cat-sa5.jpg", "name": "Ethiopia" },
+       { "src": "assests/images/cat-sa6.jpg", "name": "Rwanda wildlife safari" },
+        { "src": "assests/images/cat-sa7.jpg", "name": "Zambia wildlife safari" },
+         { "src": "assests/images/cat-sa8.jpeg", "name": "Kaziranga National Park" },
+         { "src": "assests/images/cat-sa9.jpg", "name": "Satpura National Park" }
+  ]
+}

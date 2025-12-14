@@ -1,0 +1,15 @@
+{
+  "destination": "China",
+  "images": [
+    { "name": "Great Wall of China", "src": "assests/images/des-ch1.jpg" },
+    { "name": "Forbidden City", "src": "assests/images/des-ch2.jpg" },
+    { "name": "Temple of Heaven", "src": "assests/images/des-ch3.avif" },
+    { "name": "Zhangjiajie Mountains", "src": "assests/images/des-ch4.jpg" },
+    { "name": "Shanghai Skyline", "src": "assests/images/des-ch5.webp" },
+    { "name": "West Lake", "src": "assests/images/des-ch6.jpg" },
+    { "name": "Potala Palace", "src": "assests/images/des-ch7.jpg" },
+    { "name": "Li River Guilin", "src": "assests/images/des-ch8.jpg" },
+    { "name": "Sichuan Panda Center", "src": "assests/images/des-ch9.jpg" },
+    { "name": "Jiuzhaigou Valley", "src": "assests/images/des-ch10.jpg" }
+  ]
+}

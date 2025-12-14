@@ -1,0 +1,36 @@
+{
+  "title": "The Colosseum – Rome, Italy",
+  "date": "November 10, 2025",
+  "headerImage": "../../assests/images/colosseum1.jpg",
+  "sections": [
+    {
+      "heading": "Secrets of the Colosseum",
+      "paragraphs": [
+        "Step back in time at the Colosseum, one of the world’s most iconic monuments. Built nearly 2,000 years ago, this ancient amphitheater once hosted grand spectacles, gladiator battles, and Roman festivals.",
+        "Today it stands as a symbol of Rome's engineering genius and cultural power."
+      ]
+    },
+    {
+      "heading": "Things to Do",
+      "list": [
+        "Explore the arena floor where gladiators once fought",
+        "Visit the underground chambers",
+        "Walk through the upper levels for panoramic views",
+        "Take a guided tour for historical insights"
+      ]
+    },
+    {
+      "heading": "Travel Tips",
+      "paragraphs": [
+        "Book your tickets online to avoid long queues. Early morning or late afternoon visits offer better lighting and fewer crowds."
+      ]
+    },
+    {
+      "heading": "Nearby Attractions",
+      "paragraphs": [
+        "Don't miss the Roman Forum, Palatine Hill, and Piazza Venezia, all within walking distance."
+      ]
+    }
+  ],
+  "backLink": "../../index.html"
+}

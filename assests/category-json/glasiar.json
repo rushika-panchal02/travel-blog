@@ -1,0 +1,15 @@
+{
+  "category": "Glasiar",
+  "images": [
+    { "src": "assests/images/cat-gal1.jpg", "name": " Antarctica Ice Sheet" },
+    { "src": "assests/images/cat-gal2.jpg", "name": "Fedchenko " },
+    { "src": "assests/images/cat-gal3.jpg", "name": "Columbia Glacier" },
+     { "src": "assests/images/cat-gal4.jpg", "name": "Greenland Ice Sheet" },
+      { "src": "assests/images/cat-gal5.jpg", "name": "Exit Glacier" },
+       { "src": "assests/images/cat-gal6.jpg", "name": "Austfonna" },
+        { "src": "assests/images/cat-gal7.jpg", "name": "Perito Moreno Glacier" },
+         { "src": "assests/images/cat-gal8.jpg", "name": "Marjerie Glacier" },
+         { "src": "assests/images/cat-gal9.jpg", "name": "Yulong Glacier" },
+    { "src": "assests/images/cat-gal10.jpg", "name": "Hubbard Glacier" }
+  ]
+}

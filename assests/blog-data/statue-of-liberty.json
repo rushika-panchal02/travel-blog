@@ -1,0 +1,36 @@
+{
+  "title": "Statue of Liberty – New York, USA",
+  "date": "November 22, 2025",
+  "headerImage": "../../assests/images/Statue-of-Liberty.webp",
+  "sections": [
+    {
+      "heading": "The Symbol of Freedom",
+      "paragraphs": [
+        "The Statue of Liberty is one of the most recognized monuments in the world. A gift from France in 1886, it represents freedom, hope, and new beginnings.",
+        "A visit to Liberty Island offers both historical insight and stunning skyline views."
+      ]
+    },
+    {
+      "heading": "Things to Do",
+      "list": [
+        "Take a ferry to Liberty Island",
+        "Visit the Statue of Liberty Museum",
+        "Climb up to the pedestal or crown (with reservation)",
+        "Explore nearby Ellis Island"
+      ]
+    },
+    {
+      "heading": "Travel Tips",
+      "paragraphs": [
+        "Book crown tickets months in advance. Ferries can be windy—bring a light jacket."
+      ]
+    },
+    {
+      "heading": "Nearby Attractions",
+      "paragraphs": [
+        "Check out Battery Park, One World Trade Center, and the 9/11 Memorial."
+      ]
+    }
+  ],
+  "backLink": "../../index.html"
+}

@@ -1,0 +1,15 @@
+{
+  "category": "Volcano",
+  "images": [
+    { "src": "assests/images/cat-vol6.jpg", "name": "Mount Etna, Italy" },
+    { "src": "assests/images/cat-vol2.jpg", "name": "Kīlauea, Hawaiʻi" },
+    { "src": "assests/images/cat-vol3.jpg", "name": "Mount Merapi, Java" },
+     { "src": "assests/images/cat-vol4.jpg", "name": "Mount Erebus, Antarctica" },
+      { "src": "assests/images/cat-vol5.jpg", "name": "Stromboli, Aeolian Islands" },
+       { "src": "assests/images/cat-vol7.jpg", "name": "Mount Bromo, Indonesia" },
+        { "src": "assests/images/cat-vol8.jpg", "name": "Pacaya Volcano, Guatemala" },
+         { "src": "assests/images/cat-vol9.jpg", "name": "Mount Yasur, Vanuatu" },
+         { "src": "assests/images/cat-vol10.jpg", "name": "Villarrica Volcano, Chile" },
+    { "src": "assests/images/cat-vol11.jpg", "name": "Arenal Volcano, Costa Rica" }
+  ]
+}

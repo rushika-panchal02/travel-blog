@@ -1,0 +1,15 @@
+{
+  "category": "Mountains",
+  "images": [
+    { "src": "assests/images/cat-mon1.jpg", "name": "Denali: Alaska" },
+    { "src": "assests/images/cat-mon2.jpg", "name": "Himalayas: Nepal & Bhutan" },
+    { "src": "assests/images/cat-mon3.jpg", "name": " Kilimanjaro: Tanzania" },
+     { "src": "assests/images/cat-mon4.jpg", "name": "Alps: Switzerland" },
+      { "src": "assests/images/cat-mon5.jpg", "name": "Dolomites: Italy" },
+       { "src": "assests/images/cat-mon6.jpg", "name": "Mount Fuji: Japan" },
+        { "src": "assests/images/cat-mon7.jpg", "name": "Canadian Rockies & Columbia Mountains: Canada" },
+         { "src": "assests/images/cat-mon8.jpg", "name": "Rwenzori Mountain Range: Uganda" },
+         { "src": "assests/images/cat-mon9.jpg", "name": "Andes: Patagonia" },
+    { "src": "assests/images/cat-mon10.jpg", "name": "mount everest" }
+  ]
+}

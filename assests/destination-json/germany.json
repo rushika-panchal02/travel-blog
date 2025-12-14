@@ -1,0 +1,15 @@
+{
+  "destination": "Germany",
+  "images": [
+    { "name": "Brandenburg Gate", "src": "assests/images/des-gr1.webp" },
+    { "name": "Neuschwanstein Castle", "src": "assests/images/des-gr2.jpg" },
+    { "name": "Cologne Cathedral", "src": "assests/images/des-gr3.jpg" },
+    { "name": "Black Forest", "src": "assests/images/des-gr4.jpg" },
+    { "name": "Berlin Wall Museum", "src": "assests/images/des-gr5.avif" },
+    { "name": "Hamburg Port", "src": "assests/images/des-gr6.jpg" },
+    { "name": "Munich Marienplatz", "src": "assests/images/des-gr7.webp" },
+    { "name": "Heidelberg Castle", "src": "assests/images/des-gr8.jpg" },
+    { "name": "Rhine Valley", "src": "assests/images/des-gr9.jpg" },
+    { "name": "Saxon Switzerland", "src": "assests/images/des-gr10.jpg" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "category": "Caves",
+  "images": [
+    { "src": "assests/images/cat-cave1.jpg", "name": "Mammoth Cave National Park, USA" },
+    { "src": "assests/images/cat-cave2.jpg", "name": "Carlsbad Caverns National Park, USA" },
+    { "src": "assests/images/cat-cave3.jpg", "name": "Elephanta Caves, India" },
+     { "src": "assests/images/cat-cave4.jpg", "name": "Ajanta Caves, India" },
+      { "src": "assests/images/cat-cave5.jpg", "name": "Ellora Caves, India" },
+       { "src": "assests/images/cat-cave6.jpg", "name": "Škocjan Caves, Slovenia" },
+        { "src": "assests/images/cat-cave7.jpg", "name": "Phong Nha-Ke Bang National Park, Vietnam" },
+         { "src": "assests/images/cat-cave8.jpg", "name": "Gunung Mulu National Park, Malaysia" },
+         { "src": "assests/images/cat-cave9.jpg", "name": "Mogao Caves, China" },
+    { "src": "assests/images/cat-cave10.jpg", "name": "Sterkfontein Caves, South Africa" }
+  ]
+}

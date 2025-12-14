@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Blog Post - Travel Blog</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="blog.css">
+</head>
+<body class="ubuntu-regular">
+
+<!-- NAVBAR -->
+<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: rgba(22, 43, 48, 0.85);">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="../../index.html">Travel Blog</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item"><a class="nav-link" href="../../index.html">Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="../../index.html#blog">Blog</a></li>
+                <li class="nav-item"><a class="nav-link" href="../../index.html#destination">Destination</a></li>
+                <li class="nav-item"><a class="nav-link" href="../../index.html#category">Category</a></li>
+                <li class="nav-item"><a class="nav-link" href="../../index.html#gallery">Gallery</a></li>
+                <li class="nav-item"><a class="nav-link" href="../../index.html#about">About</a></li>
+                <li class="nav-item"><a class="nav-link" href="../../index.html#contact">Contact</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- BLOG POST CONTENT -->
+<div class="blog-post" id="blog-post">
+    <!-- JS will load content here -->
+</div>
+
+<!-- FOOTER -->
+<div class="footer" style="margin-top:2rem;">
+    <div class="footer-content">
+        <p>© 2025 Travel Blog. All rights reserved.</p>
+        <a href="../../index.html" style="color:#fff;">Home</a>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+// Get the blog JSON file from query parameter
+const params = new URLSearchParams(window.location.search);
+const blogFile = params.get('blog') || 'bentota.json';
+
+fetch(`../../assests/blog-data/${blogFile}`)
+.then(res => res.json())
+.then(data => {
+    const container = document.getElementById('blog-post');
+    
+    let html = `
+        <div class="blog-header">
+            <h1>${data.title}</h1>
+            <p class="blog-date">Published: ${data.date}</p>
+            <img src="${data.headerImage}" alt="${data.title}" class="blog-img">
+        </div>
+    `;
+
+    data.sections.forEach(section => {
+        html += `<h2>${section.heading}</h2>`;
+        if(section.paragraphs){
+            section.paragraphs.forEach(p => html += `<p>${p}</p>`);
+        }
+        if(section.list){
+            html += '<ul>';
+            section.list.forEach(li => html += `<li>${li}</li>`);
+            html += '</ul>';
+        }
+    });
+
+    html += `<a href="${data.backLink}" class="btn back-btn">Back to Blog</a>`;
+
+    container.innerHTML = html;
+});
+</script>
+
+</body>
+</html>

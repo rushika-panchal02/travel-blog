@@ -1,0 +1,15 @@
+{
+  "destination": "South Korea",
+  "images": [
+    { "name": "Gyeongbokgung Palace", "src": "assests/images/des-sk1.jpg" },
+    { "name": "N Seoul Tower", "src": "assests/images/des-sk2.jpg" },
+    { "name": "Bukchon Hanok Village", "src": "assests/images/des-sk3.jpg" },
+    { "name": "Jeju Island", "src": "assests/images/des-sk4.jpg" },
+    { "name": "Busan Beach", "src": "assests/images/des-sk5.jpg" },
+    { "name": "Lotte World Tower", "src": "assests/images/des-sk6.webp" },
+    { "name": "Gamcheon Culture Village", "src": "assests/images/des-sk7.jpg" },
+    { "name": "DMZ Border", "src": "assests/images/des-sk8.jpg" },
+    { "name": "Gwanghwamun Square", "src": "assests/images/des-sk9.jpg" },
+    { "name": "Changdeokgung Garden", "src": "assests/images/des-sk10.jpg" }
+  ]
+}

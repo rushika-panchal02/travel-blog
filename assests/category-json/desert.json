@@ -1,0 +1,16 @@
+{
+  "category": "Desert",
+  "images": [
+    { "src": "assests/images/cat-des1.jpg", "name": "Sahara Desert, Africa" },
+    { "src": "assests/images/cat-des2.jpg", "name": "Arabian Desert, West Asia" },
+    { "src": "assests/images/cat-des3.jpg", "name": " Antarctic Desert, Antarctica" },
+     { "src": "assests/images/cat-des4.jpg", "name": "Arctic Desert, Norway-Russia" },
+      { "src": "assests/images/cat-des5.jpg", "name": "Gobi Desert, Mongolia-China" },
+       { "src": "assests/images/cat-des6.jpg", "name": "Kalahari Desert, Botswana-South Africa" },
+        { "src": "assests/images/cat-des7.jpg", "name": "Syrian Desert, southeastern Syria-northeastern Jordan-northern Saudi Arabia-western Iraq" },
+         { "src": "assests/images/cat-des8.jpg", "name": "Great Basin Desert, United States" },
+         { "src": "assests/images/cat-des9.jpg", "name": "Sonoran Desert, United States and Mexico" },
+    { "src": "assests/images/cat-des10.jpg", "name": "Taklamakan Desert, China" }
+
+  ]
+}
