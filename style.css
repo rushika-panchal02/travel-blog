@@ -173,11 +173,27 @@
 }
 
 .btn:hover {
-  background-color: rgba(29, 64, 67, 1);
+  background-color: rgba(29, 64, 67, 100%);
   transform: translateY(-3px);
   box-shadow: 0 6px 14px rgba(29,64,67,0.5);
   color: #fff;
 }
+
+
+
+.btn,
+.btn:focus,
+.btn:active {
+  background-color: rgba(22, 43, 48, 100%);
+  color: #fff;
+  border: none;
+  outline: none; /* remove blue focus ring */
+  box-shadow: 0 6px 15px rgba(23, 43, 48, 0.5);
+}
+
+
+
+
 
 .destination{
   padding: 0 2rem;

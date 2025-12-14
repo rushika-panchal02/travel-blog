@@ -86,7 +86,7 @@
 
 /* blog.css or style.css */
 .navbar {
-  background-color: rgba(22, 43, 48, 0.85) !important;
+  background-color: rgba(22, 43, 48, 100%) !important;
   position: relative;
   z-index: 10;
 }
